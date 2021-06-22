@@ -1,4 +1,4 @@
-# Resouerces to keep in mind
+# Resouerces to keep in mind
 
 this repo is for research only, no any conclution will be as result of this research
 
