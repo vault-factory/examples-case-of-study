@@ -18,5 +18,7 @@ a list of example to examinated and check for patterns, behavior and more:
 - [ ] idle.finance
 - [ ] bearn.fi
 
+# Vaults generators
+- [x] [enzyme.finance address contract creator](https://etherscan.io/address/0x87a60129375d22489bbd287ec0d23129ef9290ef) 
 
 see a full list of [yield-aggregators here](https://defiprime.com/yield-aggregators)
