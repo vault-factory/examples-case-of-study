@@ -10,6 +10,7 @@ a list of example to examinated and check for patterns, behavior and more:
 ### yield aggregators list:
 - [x] beefy.finance
 - [x] yearn.finance
+- [x] charm.finance
 - [ ] akropolis.io
 - [ ] curve.fi
 - [ ] homora.alphafinance.io
