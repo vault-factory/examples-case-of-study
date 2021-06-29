@@ -2,7 +2,9 @@
 
 ## terms
 **vault:** a contract where can deposit token/cryptocurrency.
+
 **yearn vault:** pool of funds with an associated strategy for maximising returns. (producing yield. yEarn = yield earn)
+
 **vault strategy:** is a mix of differents actions that can be:
 - supply collacteral to an token/cruptocurrencies
 - borrowing other assets
