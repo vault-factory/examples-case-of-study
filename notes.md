@@ -47,6 +47,7 @@ yVaults has some rules:
 - gas fee (to subsidize the gas cost)
 - strategy creator fee
 - treasury thresold
+- strategy actions
 
 
 NB: first we deploy the strategy then the vault that point to the strategy
